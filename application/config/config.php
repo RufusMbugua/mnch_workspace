@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://'.$_SERVER['SERVER_NAME'].'/program-monitor/';
+$config['base_url']	= 'http://'.$_SERVER['SERVER_NAME'].'/mnch_workspace/';
 
 /*
 |--------------------------------------------------------------------------

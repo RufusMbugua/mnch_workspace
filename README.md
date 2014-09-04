@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 =======
 program-monitor
@@ -70,3 +71,7 @@ You can find the standard welcome page in:
 
 
 
+=======
+mnch_workspace
+==============
+>>>>>>> 52b7ecc7ca2d3b997a41e969f90a9f8b41bbb535
